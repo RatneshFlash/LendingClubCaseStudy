@@ -42,9 +42,8 @@ Using following steps for data processing.
 
 
 ## Technologies Used
-- Pandas library - version 1.0
-- Numpy library - version 2.0
-- Sns library - version 3.0
+- Pandas library - version 1.4.2
+- Numpy library - version 1.21.5
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -55,7 +54,6 @@ Using following steps for data processing.
 - Small business loans defaulted more. The lending club should stop/reduce issuing the loans to them.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 
 ## Contributors
